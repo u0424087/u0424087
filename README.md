@@ -7,4 +7,4 @@
 [高第一傳送門](http://www.nkfust.edu.tw/bin/home.php)
 
 :pencil:
-![LightHouse](lighthouse.jpg "無尾熊")
+![LightHouse](Lighthouse.jpg "無尾熊")
